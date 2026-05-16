@@ -1,1 +1,1 @@
-PROG 98_PID20.pm 41145 2026-05-16 FHEM/98_PID20.pm UPD Fehlerkorrigierter PID20 Regler (V1.0.0.13)
+PROG FHEM/98_PID20.pm 42657 2026-05-16 FHEM/98_PID20.pm UPD Fehlerkorrigierter PID20 Regler (V1.0.0.14 - Filter)
